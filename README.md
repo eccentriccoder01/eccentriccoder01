@@ -24,6 +24,10 @@
 <img align="left" alt="ExpressJS" width="30px" src="https://th.bing.com/th?id=ODLS.7ee38d86-4472-452b-806c-fd7945e59518&w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=1101&pid=1.2"/>
 <img align="left" alt="GitHub" width="30px" src="https://th.bing.com/th?id=ODLS.00dbbbda-1b83-40e7-ac3c-2ff2a73b245f&w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=1102&pid=1.2" />
 
+</br> </br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eccentriccoder01&layout=compact&theme=react&count_private=false" />
+
 </br>
 
 ### Connect With Me 🌐
@@ -32,6 +36,9 @@
 </a>
 
 <br/>
+<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=eccentriccoder01&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eccentriccoder01&layout=compact&theme=react&count_private=false" />
-![Sagnik's GitHub stats](https://github-readme-stats.vercel.app/api?user=eccentriccoder01&theme=vision-friendly-dark)
+
+</br>
+
+<img align="center" src="https://github-readme-streak-stats-bice-ten.vercel.app?user=eccentriccoder01&theme=dark&date_format=j%2Fn%5B%2FY%5D" />

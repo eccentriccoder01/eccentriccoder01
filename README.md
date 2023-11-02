@@ -34,4 +34,4 @@
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=eccentriccoder01&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eccentriccoder01&layout=compact&theme=react&count_private=false" />
-![Sagnik's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=eccentriccoder01&theme=vision-friendly-dark)
+![Sagnik's GitHub stats](https://github-readme-stats.vercel.app/api?user=eccentriccoder01&theme=vision-friendly-dark)

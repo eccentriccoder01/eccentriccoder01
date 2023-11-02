@@ -37,6 +37,7 @@
 
 <br/>
 <br/>
+### My Stats 📊
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=eccentriccoder01&count_private=true&show_icons=true&theme=tokyonight" />
 
 </br>

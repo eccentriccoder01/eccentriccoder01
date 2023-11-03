@@ -24,6 +24,8 @@
 <img align="left" alt="ExpressJS" width="30px" src="https://th.bing.com/th?id=ODLS.7ee38d86-4472-452b-806c-fd7945e59518&w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=1101&pid=1.2"/>
 <img align="left" alt="GitHub Desktop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/640px-Github-desktop-logo-symbol.svg.png" />
 <img align="left" alt="Postman" width="30px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/>
+<img align="left" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" />
+<img align="left" alt="JSX" width="30px" src="https://blog.waterstrong.me/assets/jsx-syntax/jsx_logo.png" />
 
 </br> </br>
 

@@ -46,4 +46,4 @@
 
 </br>
 
-<img align="center" src="https://github-readme-streak-stats-bice-ten.vercel.app/?user=eccentriccoder01&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
+<img align="center" src="https://streak-stats.demolab.com/?user=eccentriccoder01&theme=dark&date_format=j%2Fn%5B%2FY%5D" />

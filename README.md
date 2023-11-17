@@ -1,4 +1,5 @@
 ### Greetings 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eccentriccoder01&label=Profile%20views&color=0e75b6&style=flat" alt="shsarv" /> </p>
 
 - 👨🏻‍🎓 Currently pursuing BTech in Information Technology
 - 🚀 Actively involved in ongoing projects

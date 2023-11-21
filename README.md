@@ -22,13 +22,16 @@
 <img align="left" alt="Bootstrap" width="50px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>
 <img align="left" alt="ReactJS" width="50px" src="https://th.bing.com/th?id=ODLS.adb8ba17-4f9a-4488-87b4-615dae577f6d&w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=1102&pid=1.2"/>
 <img align="left" alt="NodeJS" width="50px" src="https://th.bing.com/th?id=ODLS.1ca381ef-8508-46a9-9735-6e113e8a4cb8&w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=1102&pid=1.2"/>
+
+<p><hr/><hr/></p>
+
 <img align="left" alt="ExpressJS" width="50px" src="https://th.bing.com/th?id=ODLS.7ee38d86-4472-452b-806c-fd7945e59518&w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=1101&pid=1.2"/>
 <img align="left" alt="GitHub Desktop" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/640px-Github-desktop-logo-symbol.svg.png" />
 <img align="left" alt="Postman" width="50px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/>
 <img align="left" alt="TypeScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" />
-<img align="left" alt="JSX" width="50px" src="https://blog.waterstrong.me/assets/jsx-syntax/jsx_logo.png" />\
+<img align="left" alt="JSX" width="50px" src="https://blog.waterstrong.me/assets/jsx-syntax/jsx_logo.png" />
 
-</br> </br> </br> </br> </hr>
+<p><hr/><hr/><hr/><hr/></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eccentriccoder01&layout=compact&theme=react&count_private=false" />
 

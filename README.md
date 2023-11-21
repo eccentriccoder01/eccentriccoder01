@@ -40,7 +40,34 @@
 </a>
 
 </br>
-</br>
+
+### Badges 🎗️
+<details>
+<summary>Show The Badges</summary>
+
+  <a href="https://www.credly.com/badges/f397a886-61de-4ec5-9e50-6eb741a085d1/public_url" target="_blank">
+    <img align="left" width="100px" alt="" src="https://images.credly.com/size/220x220/images/9dcdc294-79a6-47e5-a769-708c29c7c497/image.png" />
+  </a>
+
+  <a href="https://www.credly.com/badges/fb130af4-6008-4ae8-b24d-e9d012f57777/public_url" target="_blank">
+    <img align="left" width="100px" alt="" src="https://images.credly.com/size/220x220/images/e85903f3-153e-4ec4-bf39-53990a932e46/image.png" />
+  </a>
+
+  <a href="https://www.credly.com/badges/1bde91ac-946e-40f9-b9e5-927d9d631101/public_url">
+    <img align="left" width="100px" alt="" src="https://images.credly.com/size/220x220/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" />
+  </a>
+
+  <a href="https://www.credly.com/badges/bcf6d1bb-3d3d-422c-bc5b-2e3c90d5ccbc/public_url" target="_blank">
+    <img align="left" width="100px" alt="" src="https://images.credly.com/size/220x220/images/23859131-d0ff-4f44-900f-bac86165b941/image.png" />
+  </a>
+
+  <a href="https://www.credly.com/badges/83bed5fd-8ba1-4c44-8358-73fb2da1623e/public_url" target="_blank">
+    <img align="left" width="100px" alt="" src="https://images.credly.com/size/220x220/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" />
+  </a>
+</details>
+
+
+</br></br></br></br></hr>
 
 ### My Stats 📊
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=eccentriccoder01&count_private=true&show_icons=true&theme=tokyonight" />

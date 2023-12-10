@@ -67,8 +67,13 @@
   <a href="https://www.credly.com/badges/83bed5fd-8ba1-4c44-8358-73fb2da1623e/public_url" target="_blank">
     <img align="left" width="100px" alt="" src="https://images.credly.com/size/220x220/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" />
   </a>
+  
   <a href="https://www.credly.com/badges/53bd600a-4e4a-4a87-b7bd-11405964c0d3/public_url" target="_blank">
     <img align="left" width="100px" alt="" src="https://images.credly.com/size/220x220/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png" />
+  </a>
+
+  <a href="https://www.credly.com/badges/f093ec4e-dff7-4db6-8909-77205c6b0861/public_url" target="_blank">
+    <img align="left" width="100px" alt="" src="https://images.credly.com/size/220x220/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png" />
   </a>
 </details>
 

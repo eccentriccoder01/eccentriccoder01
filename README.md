@@ -47,6 +47,9 @@
 ### Badges 🎗️
 <details>
 <summary>Show The Badges</summary>
+   <a href="https://www.credly.com/badges/f093ec4e-dff7-4db6-8909-77205c6b0861/public_url" target="_blank">
+    <img align="left" width="100px" alt="" src="https://images.credly.com/size/220x220/images/482f703c-e221-4667-91e6-4322c3210bc0/image.png" />
+  </a>
 
   <a href="https://www.credly.com/badges/f397a886-61de-4ec5-9e50-6eb741a085d1/public_url" target="_blank">
     <img align="left" width="100px" alt="" src="https://images.credly.com/size/220x220/images/9dcdc294-79a6-47e5-a769-708c29c7c497/image.png" />

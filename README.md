@@ -1,13 +1,10 @@
 ### Greetings 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eccentriccoder01&label=Profile%20views&color=0e75b6&style=flat" alt="shsarv" /> </p>
 
-- 👨🏻‍🎓 Currently pursuing BTech in Information Technology
-- 🚀 Actively involved in ongoing projects
-- 📖 Currently acquiring proficiency in the MERN Stack and Python
+- 👨🏻‍🎓 Pursuing BTech in Information Technology
+- 📖 Acquiring proficiency in Full-Stack Software Development
 - 🤝 Exploring collaborative opportunities for innovative projects
 - 🎯 Aspiring to make impactful contributions to Open Source initiatives
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
 </br>
 

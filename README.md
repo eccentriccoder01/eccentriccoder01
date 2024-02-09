@@ -41,7 +41,7 @@
 
 </br><hr/><hr/>
 
-### Badges 🎗️
+### Digital Badges 🎗️
 <details>
 <summary>Show The Badges</summary>
    <a href="https://www.credly.com/badges/f093ec4e-dff7-4db6-8909-77205c6b0861/public_url" target="_blank">

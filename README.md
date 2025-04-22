@@ -57,7 +57,7 @@
   </a>
 
   <a href="https://www.credly.com/badges/1bde91ac-946e-40f9-b9e5-927d9d631101/public_url">
-    <img align="left" width="100px" alt="" src="https://images.credly.com/size/220x220/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" />
+    <img align="left" width="100px" alt="" src="https://www.credly.com/badges/76e994f4-a66f-4209-9727-f0007de3c3a8/public_url" />
   </a>
 
   <a href="https://www.credly.com/badges/bcf6d1bb-3d3d-422c-bc5b-2e3c90d5ccbc/public_url" target="_blank">

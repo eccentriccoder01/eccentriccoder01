@@ -57,7 +57,7 @@
   </a>
 
   <a href="https://www.credly.com/badges/1bde91ac-946e-40f9-b9e5-927d9d631101/public_url">
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="76e994f4-a66f-4209-9727-f0007de3c3a8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <img align="left" width="100px" alt="" src="https://images.credly.com/size/220x220/images/e85903f3-153e-4ec4-bf39-53990a932e46/image.png" />
   </a>
 
   <a href="https://www.credly.com/badges/bcf6d1bb-3d3d-422c-bc5b-2e3c90d5ccbc/public_url" target="_blank">

@@ -1,10 +1,13 @@
 ### Greetings 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eccentriccoder01&label=Profile%20views&color=0e75b6&style=flat" alt="shsarv" /> </p>
 
-- 👨🏻‍🎓 Pursuing BTech in Information Technology
-- 📖 Acquiring proficiency in Full-Stack Software Development
-- 🤝 Exploring collaborative opportunities for innovative projects
-- 🎯 Aspiring to make impactful contributions to Open Source initiatives
+- 🔏 Pursuing BTech in Information Technology
+- 🔏 A results-driven developer with expertise in Web Development (Front-end focused) and AI/ML solutions.
+- 🔏 Proficient in Python, JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB, SQL.
+- 🔏 Worked with Machine Learning frameworks like TensorFlow and Keras.
+- 🔏 Aspiring to make impactful contributions to Open Source initiatives
+</br>
+Beyond the world of existing advanced technologies, I hold a deep fascination for Quantum Computing, Astronomy and the mysteries of the multiverse.
 
 </br>
 
@@ -71,7 +74,7 @@
   <p><hr/><hr/><hr/><hr/></p>
   
   <a href="https://www.credly.com/badges/53bd600a-4e4a-4a87-b7bd-11405964c0d3/public_url" target="_blank">
-    <img align="left" width="100px" alt="" src="https://images.credly.com/size/220x220/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png" />
+    <img align="left" width="100px" alt="introduction-to-cloud-computing" src="https://github.com/user-attachments/assets/3ab1a6a5-5a83-4839-ba62-a3f18a9cb475" />
   </a>
 
   <a href="https://www.credly.com/badges/f093ec4e-dff7-4db6-8909-77205c6b0861/public_url" target="_blank">

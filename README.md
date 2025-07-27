@@ -102,8 +102,6 @@
       <td align="center">
         <img width="120px" src="https://github.com/user-attachments/assets/881a3b49-b283-47cc-b1ae-7e7354eeae9d" />
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://www.credly.com/badges/53bd600a-4e4a-4a87-b7bd-11405964c0d3/public_url">
           <img width="120px" src="https://github.com/user-attachments/assets/3ab1a6a5-5a83-4839-ba62-a3f18a9cb475" />
@@ -136,7 +134,6 @@
           <img width="120px" src="https://github.com/user-attachments/assets/5e58bda2-9472-4026-9587-3fd3ad93e135" />
         </a>
       </td>
-      <td colspan="2"></td>
     </tr>
   </table>
 </div>

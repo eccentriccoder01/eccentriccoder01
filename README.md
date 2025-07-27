@@ -38,12 +38,12 @@
 
 ### Frontend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,python" alt="Frontend Skills" />
 </p>
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,firebase" alt="Backend Skills" />
 </p>
 
 ### Tools & Platforms

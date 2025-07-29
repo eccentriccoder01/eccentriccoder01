@@ -63,15 +63,18 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eccentriccoder01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrEccentric&layout=compact&theme=dracula" />
+</div>
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=eccentriccoder01&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrEccentric&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   
 </div>
 
 <div align="center">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eccentriccoder01&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
-
-  <img src="https://streak-stats.demolab.com/?user=eccentriccoder01&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
   
 </div>
 

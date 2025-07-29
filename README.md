@@ -68,11 +68,11 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=eccentriccoder01&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-</div>
-
-<div align="center">
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eccentriccoder01&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
+
+  <img src="https://streak-stats.demolab.com/?user=eccentriccoder01&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+  
 </div>
 
 ---

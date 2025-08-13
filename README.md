@@ -1,16 +1,17 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+
 # <div align="center">🌟 Sagnik Chakraborty</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full-Stack+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
 </div>
-<hr>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=eccentriccoder01&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" alt="Status" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 

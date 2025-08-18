@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=%F0%9F%8C%90+Sagnik+Chakraborty" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=false&width=1000&height=50&lines=%F0%9F%8C%90+Sagnik+Chakraborty" alt="Typing SVG" />
 </div>
 
 <div align="center">

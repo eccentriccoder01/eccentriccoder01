@@ -292,11 +292,11 @@
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/🏅-GOOGLE-4169E1?style=for-the-badge&labelColor=191970" width="100">
       <br>
-      <img width="120" src="https://github.com/user-attachments/assets/881a3b49-b283-47cc-b1ae-7e7354eeae9d" />
-      <br>
       <a href="https://www.g.dev/mreccentric">
         <img width="120" src="https://github.com/user-attachments/assets/d5263511-c2c7-43f6-a21c-076ae1fffc78" />
       </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
     </td>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/🏅-GOOGLE-32CD32?style=for-the-badge&labelColor=006400" width="100">
@@ -328,7 +328,7 @@
       <img src="https://img.shields.io/badge/🏅-GOOGLE-FFD700?style=for-the-badge&labelColor=B8860B" width="100">
       <br>
       <a href="https://www.g.dev/mreccentric"">
-        <img width="120" src="hhttps://github.com/user-attachments/assets/74f0cc46-7f7e-4356-8037-ae4236e26d42" />
+        <img width="120" src="https://github.com/user-attachments/assets/74f0cc46-7f7e-4356-8037-ae4236e26d42" />
       </a>
       <br>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-FFD700?style=flat&labelColor=B8860B" width="80">

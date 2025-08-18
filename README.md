@@ -1,9 +1,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
-# <div align="center">🌟 Sagnik Chakraborty</div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=%F0%9F%8C%90+Sagnik+Chakraborty" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full-Stack+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1000&pause=100&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">

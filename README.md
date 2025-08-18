@@ -110,6 +110,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eccentriccoder01&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
   
 </div>
+
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Badges

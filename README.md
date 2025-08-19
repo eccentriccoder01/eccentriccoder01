@@ -39,6 +39,10 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%">
+  
 ### Frontend Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,python" alt="Frontend Skills" />
@@ -53,6 +57,14 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,tensorflow" alt="Tools" />
 </p>
+
+</td>
+<td width="50%">
+  
+![](https://github-contributor-stats.vercel.app/api?username=eccentriccoder01&limit=8&theme=dark&combine_all_yearly_contributions=true)
+</td>
+</tr>
+</table>
 
 </div>
 

@@ -20,15 +20,13 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400" />
 
 
-- 🔏 Pursuing BTech in Information Technology
+- 👨🏻‍💻 Pursuing BTech in Information Technology
 
-- 🔏 A results-driven developer with expertise in Web Development (Front-end focused) and AI/ML solutions.
+- 👨🏻‍💻 Proficient in Python, JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB, SQL.
 
-- 🔏 Proficient in Python, JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB, SQL.
+- 👨🏻‍💻 Worked with Machine Learning frameworks like TensorFlow and Keras.
 
-- 🔏 Worked with Machine Learning frameworks like TensorFlow and Keras.
-
-- 🔏 Aspiring to make impactful contributions to Open Source initiatives
+- 👨🏻‍💻 Aspiring to make impactful contributions to Open Source initiatives
 
 
 <br clear="right"/>

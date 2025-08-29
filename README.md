@@ -72,16 +72,7 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eccentriccoder01&theme=github_dark"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eccentriccoder01&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
-</td>
-</tr>
-</table>
 
 <table>
 <tr>

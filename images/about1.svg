@@ -1,0 +1,77 @@
+<svg width="300" height="350" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define gradient -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#162947;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0b2e;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background with gradient -->
+  <rect width="300" height="350" rx="8" ry="8" fill="url(#bg-gradient)"/>
+  
+  <!-- Border with glow -->
+  <rect width="296" height="346" x="2" y="2" rx="8" ry="8" 
+        fill="none" stroke="#00d9ff" stroke-width="2" 
+        filter="url(#glow)" opacity="0.8"/>
+  
+  <!-- Text content -->
+  <text x="20" y="35" font-family="'Courier New', monospace" font-size="13" fill="#00d9ff">
+    <tspan fill="#ff006e">●</tspan>
+    <tspan fill="#00d9ff"> PROFILE_ACTIVE</tspan>
+  </text>
+  
+  <text x="20" y="65" font-family="'Courier New', monospace" font-size="13">
+    <tspan fill="#8338ec">▸</tspan>
+    <tspan fill="#00d9ff"> Education</tspan>
+  </text>
+  
+  <text x="25" y="88" font-family="'Courier New', monospace" font-size="13" fill="#00d9ff">
+    BTech in Information Technology
+  </text>
+  
+  <text x="20" y="118" font-family="'Courier New', monospace" font-size="13">
+    <tspan fill="#8338ec">▸</tspan>
+    <tspan fill="#00d9ff"> Tech Stack</tspan>
+  </text>
+  
+  <text x="25" y="141" font-family="'Courier New', monospace" font-size="13" fill="#00d9ff">
+    Python • JavaScript • React
+  </text>
+  
+  <text x="25" y="164" font-family="'Courier New', monospace" font-size="13" fill="#00d9ff">
+    Express • Node • MongoDB • SQL
+  </text>
+  
+  <text x="20" y="194" font-family="'Courier New', monospace" font-size="13">
+    <tspan fill="#8338ec">▸</tspan>
+    <tspan fill="#00d9ff"> Frameworks</tspan>
+  </text>
+  
+  <text x="25" y="217" font-family="'Courier New', monospace" font-size="13" fill="#00d9ff">
+    TensorFlow • Keras
+  </text>
+  
+  <text x="20" y="247" font-family="'Courier New', monospace" font-size="13">
+    <tspan fill="#8338ec">▸</tspan>
+    <tspan fill="#00d9ff"> Mission</tspan>
+  </text>
+  
+  <text x="25" y="270" font-family="'Courier New', monospace" font-size="13" fill="#00d9ff">
+    Open Source Contributions
+  </text>
+  
+  <text x="20" y="315" font-family="'Courier New', monospace" font-size="13" fill="#00d9ff">
+    <tspan fill="#ff006e">●</tspan>
+    <tspan fill="#00d9ff"> STATUS: BUILDING</tspan>
+  </text>
+</svg>

@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=eccentriccoder01&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-indigo?style=for-the-badge" alt="Status" />
 </div> 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Arsenal

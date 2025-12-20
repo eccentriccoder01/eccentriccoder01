@@ -1,8 +1,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">  -->
+
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me -->
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=false&width=1000&height=50&lines=%F0%9F%8C%90+Sagnik+Chakraborty" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/About-Me-Dark.svg" style="width: 650px; height: 300px;">
+  <img align="center" alt="" src="./images/About-Me-Light.svg" style="width: 650px; height: 300px;">
+</picture>
 </div>
+<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1000&pause=100&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
@@ -10,28 +18,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=eccentriccoder01&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" alt="Status" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400" />
-
-
-- 👨🏻‍💻 Pursuing BTech in Information Technology
-
-- 👨🏻‍💻 Proficient in Python, JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB, SQL.
-
-- 👨🏻‍💻 Worked with Machine Learning frameworks like TensorFlow and Keras.
-
-- 👨🏻‍💻 Aspiring to make impactful contributions to Open Source initiatives
-
-
-<br clear="right"/>
-
----
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-indigo?style=for-the-badge" alt="Status" />
+</div> 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Arsenal
 
@@ -69,6 +57,11 @@
 ---
 
 ## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> GitHub Analytics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 <div align="center">
 

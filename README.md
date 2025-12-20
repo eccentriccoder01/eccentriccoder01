@@ -59,6 +59,27 @@
 ## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> GitHub Analytics
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 27 July 2025 - To: 20 December 2025
+
+Total Time: 209 hrs 40 mins
+
+Python             43 hrs 11 mins  █████░░░░░░░░░░░░░░░░░░░░   20.60 %
+Text               31 hrs 42 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+JavaScript         25 hrs 54 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+HTML               24 hrs 12 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+Java               21 hrs 28 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+Markdown           18 hrs 22 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+CSS                9 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+C                  5 hrs 32 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+TypeScript         3 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Git Config         2 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Bash               2 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Image (svg)        1 hr 40 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Other              59 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+```
+
 <!--END_SECTION:waka-->
 
 

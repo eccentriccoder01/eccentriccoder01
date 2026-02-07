@@ -1,9 +1,9 @@
 <svg width="650" height="300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 300">
   <!-- Define gradient -->
   <defs>
-    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg-gradient" x1="0%" y1="50%" x2="100%" y2="50%">
       <stop offset="0%" style="stop-color: rgb(60, 1, 85);stop-opacity:1" />
-      <stop offset="100%" style="stop-color: rgb(168, 129, 204);stop-opacity:1" />
+      <stop offset="100%" style="stop-color: rgb(180, 108, 247);stop-opacity:1" />
     </linearGradient>
     
     <!-- Enhanced Glow filter with animation -->
@@ -59,9 +59,9 @@
         animation: glow-pulse 3s ease-in-out infinite;
       }
 
-      .ascii-art {
+      <!-- .ascii-art {
         animation: shimmer 4s ease-in-out infinite;
-      }
+      } -->
 
       /* Typewriter effect for each line */
       .type-line-1 { animation: fadeIn 0.5s ease-in 0s forwards; opacity: 0; }
@@ -100,7 +100,7 @@
         filter="url(#glow)" opacity="0.8"/>
   
   <!-- Left side: Image section (scaled to fit) with shimmer animation -->
-  <g transform="translate(60, 0) scale(1.3)" class="ascii-art">
+  <g transform="translate(90, 0) scale(1.1)" class="ascii-art">
     <svg viewBox="0 200 1250 1550">
       <text font-family="monospace"
             font-size="19"

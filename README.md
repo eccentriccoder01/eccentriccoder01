@@ -6,8 +6,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/About-Me-Dark.svg" style="width: 650px; height: 300px;">
-  <img align="center" alt="" src="./images/About-Me-Light.svg" style="width: 650px; height: 300px;">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="./images/About-Me-Dark.svg" style="width: 650px; height: 300px;"> -->
+  <img align="center" alt="" src="./images/About-Me-Dark.svg" style="width: 780px; height: 360px;">
 </picture>
 </div>
 <br>

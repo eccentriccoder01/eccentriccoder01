@@ -1,4 +1,4 @@
-<svg width="650" height="300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 300">
+<svg width="780" height="360" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 360">
   <!-- Define gradient -->
   <defs>
     <linearGradient id="bg-gradient" x1="0%" y1="50%" x2="100%" y2="50%">
@@ -92,16 +92,16 @@
   </defs>
   
   <!-- Background with gradient for entire SVG -->
-  <rect width="650" height="300" rx="8" ry="8" fill="url(#bg-gradient)"/>
+  <rect width="780" height="360" rx="8" ry="8 " fill="url(#bg-gradient)"/>
   
   <!-- Unified Border with animated glow around entire SVG -->
-  <rect class="border-glow" width="646" height="296" x="2" y="2" rx="8" ry="8" 
-        fill="none" stroke="#fff" stroke-width="2" 
+  <rect class="border-glow" width="776" height="356" x="2" y="2" rx="8" ry="8" 
+        fill="none" stroke="#851c95" stroke-width="2" 
         filter="url(#glow)" opacity="0.8"/>
   
   <!-- Left side: Image section (scaled to fit) with shimmer animation -->
   <g transform="translate(90, 0) scale(1.1)" class="ascii-art">
-    <svg viewBox="0 200 1250 1550">
+    <svg viewBox="0 200 1250 1600">
       <text font-family="monospace"
             font-size="19"
             fill="rgb(0, 0, 0)"
@@ -112,13 +112,13 @@
   </g>
   
   <!-- Vertical divider line with pulse -->
-  <line x1="320" y1="10" x2="320" y2="290" stroke="#fff" stroke-width="1" opacity="0.3">
+  <line x1="365" y1="10" x2="365" y2="350" stroke="#fff" stroke-width="1" opacity="0.3">
     <animate attributeName="opacity" values="0.2;0.5;0.2" dur="2s" repeatCount="indefinite"/>
   </line>
   
   <!-- Right side: About section with typewriter animation -->
-  <g transform="translate(30, 15)">
-    <text font-family="'Courier New', monospace" font-size="13" fill="#fff">
+  <g transform="translate(30, 35)">
+    <text font-family="'Courier New', monospace" font-size="15" fill="#fff">
       <!-- Line 1: Header with pulsing dot -->
       <tspan class="type-line-1">
         <tspan x="0" y="15" fill="#ff006e" class="status-dot">●</tspan>
@@ -127,7 +127,7 @@
       
       <!-- Line 2: Education header with bouncing arrow -->
       <tspan class="type-line-2">
-        <tspan x="0" y="45" fill="#250c48" class="arrow">▸</tspan>
+        <tspan x="0" y="45" fill="#955fe2" class="arrow">▸</tspan>
         <tspan x="10" y="45" fill="#fff"> Education</tspan>
       </tspan>
       
@@ -136,7 +136,7 @@
       
       <!-- Line 4: Tech Stack header -->
       <tspan class="type-line-4">
-        <tspan x="0" y="98" fill="#250c48" class="arrow">▸</tspan>
+        <tspan x="0" y="98" fill="#955fe2" class="arrow">▸</tspan>
         <tspan x="10" y="98" fill="#fff"> Tech Stack</tspan>
       </tspan>
       
@@ -151,7 +151,7 @@
       
       <!-- Line 8: Mission header -->
       <tspan class="type-line-8">
-        <tspan x="0" y="197" fill="#250c48" class="arrow">▸</tspan>
+        <tspan x="0" y="197" fill="#955fe2" class="arrow">▸</tspan>
         <tspan x="10" y="197" fill="#fff"> Mission</tspan>
       </tspan>
       
@@ -162,7 +162,7 @@
       <tspan class="type-line-10">
         <tspan x="0" y="260" fill="#ff006e" class="status-dot">●</tspan>
         <tspan x="10" y="260" fill="#fff"> STATUS: BUILDING</tspan>
-        <tspan x="140" y="260" fill="#06020bff" class="cursor">_</tspan>
+        <tspan x="160" y="260" fill="rgb(188, 133, 255)" class="cursor">_</tspan>
       </tspan>
     </text>
   </g>

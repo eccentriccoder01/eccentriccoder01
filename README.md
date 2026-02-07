@@ -128,7 +128,22 @@
 ### 🎖️ Distinguished Collection 🎖️
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- Royal Divider -->
+<div align="center">
+
+<!-- Premium Gradient Divider -->
+<svg width="900" height="4" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff006e;stop-opacity:0" />
+      <stop offset="20%" style="stop-color:#ff006e;stop-opacity:1" />
+      <stop offset="40%" style="stop-color:#8338ec;stop-opacity:1" />
+      <stop offset="60%" style="stop-color:#3a86ff;stop-opacity:1" />
+      <stop offset="80%" style="stop-color:#00f5ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00f5ff;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="4" fill="url(#headerGrad)" rx="2"/>
+</svg>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
@@ -138,94 +153,65 @@
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(255,127,80,0.1) 0%, rgba(205,92,92,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(255,127,80,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #FF7F50, #CD5C5C, #FF6347); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
-        <br><br>
-        <img width="130" src="./Badges/front-end-development-with-react.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(255,127,80,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/front-end-development-with-react.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(255,127,80,0.1) 0%, rgba(205,92,92,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(255,127,80,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #FF7F50, #CD5C5C, #FF6347); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
-        <br><br>
-        <img width="130" src="./Badges/node-and-express-essentials.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(255,127,80,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/node-and-express-essentials.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(255,127,80,0.1) 0%, rgba(205,92,92,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(255,127,80,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #FF7F50, #CD5C5C, #FF6347); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-CISCO-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
-        <br><br>
-        <img width="130" src="./Badges/javascript-essentials-1.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(255,127,80,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-CISCO-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/javascript-essentials-1.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(255,127,80,0.1) 0%, rgba(205,92,92,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(255,127,80,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #FF7F50, #CD5C5C, #FF6347); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
-        <br><br>
-        <img width="130" src="./Badges/python-for-data-science-and-ai.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(255,127,80,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/python-for-data-science-and-ai.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(255,127,80,0.1) 0%, rgba(205,92,92,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(255,127,80,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #FF7F50, #CD5C5C, #FF6347); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
-        <br><br>
-        <img width="130" src="./Badges/introduction-to-cloud-computing.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(255,127,80,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/introduction-to-cloud-computing.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(255,127,80,0.1) 0%, rgba(205,92,92,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(255,127,80,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #FF7F50, #CD5C5C, #FF6347); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
-        <br><br>
-        <img width="130" src="./Badges/git-and-github-essentials.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(255,127,80,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/git-and-github-essentials.png" /></kbd>
     </td>
   </tr>
 </table>
-
-<br>
 
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(50,205,50,0.1) 0%, rgba(0,100,0,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(50,205,50,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #32CD32, #006400, #00FF00); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-IBM-32CD32?style=for-the-badge&labelColor=006400" width="110">
-        <br><br>
-        <img width="130" src="./Badges/web-development-with-html-css-javascript-essentials.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(50,205,50,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-IBM-32CD32?style=for-the-badge&labelColor=006400" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/web-development-with-html-css-javascript-essentials.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(50,205,50,0.1) 0%, rgba(0,100,0,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(50,205,50,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #32CD32, #006400, #00FF00); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-IBM-32CD32?style=for-the-badge&labelColor=006400" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Explore Emerging Tech.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(50,205,50,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-IBM-32CD32?style=for-the-badge&labelColor=006400" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Explore Emerging Tech.jpg" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(65,105,225,0.1) 0%, rgba(25,25,112,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(65,105,225,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #4169E1, #191970, #1E90FF); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-LF-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/LFQ101.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(65,105,225,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-LF-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/LFQ101.jpg" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(205,127,50,0.1) 0%, rgba(139,69,19,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(205,127,50,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #CD7F32, #8B4513, #D2691E); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-POSTMAN-CD7F32?style=for-the-badge&labelColor=8B4513" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Postman - Postman API Fundamentals Student Expert - 2025-08-15.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(205,127,50,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-POSTMAN-CD7F32?style=for-the-badge&labelColor=8B4513" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Postman - Postman API Fundamentals Student Expert - 2025-08-15.png" /></kbd>
     </td>
   </tr>
 </table>
+<svg width="900" height="4" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="4" fill="url(#headerGrad)" rx="2"/>
+</svg>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -236,55 +222,40 @@
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(255,215,0,0.1) 0%, rgba(184,134,11,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(255,215,0,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #FFD700, #FFA500, #FFFF00); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/50 Days LeetCode.gif" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(255,215,0,0.5);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/50 Days LeetCode.gif" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(255,215,0,0.1) 0%, rgba(184,134,11,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(255,215,0,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #FFD700, #FFA500, #FFFF00); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/DCC December 2025 LeetCode.gif" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(255,215,0,0.5);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/DCC December 2025 LeetCode.gif" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(255,215,0,0.1) 0%, rgba(184,134,11,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(255,215,0,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #FFD700, #FFA500, #FFFF00); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/DCC January 2026 LeetCode.gif" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(255,215,0,0.5);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/DCC January 2026 LeetCode.gif" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(205,127,50,0.1) 0%, rgba(139,69,19,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(205,127,50,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #CD7F32, #B8860B, #D2691E); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-CODECHEF-CD7F32?style=for-the-badge&labelColor=8B4513" width="110">
-        <br><br>
-        <img width="130" src="./Badges/CodeChef Contest Contender Bronze.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(205,127,50,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-CODECHEF-CD7F32?style=for-the-badge&labelColor=8B4513" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/CodeChef Contest Contender Bronze.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(0,206,209,0.1) 0%, rgba(0,139,139,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,206,209,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #00CED1, #00FFFF, #20B2AA); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-CODECHEF-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/CodeChef Problem Solver Diamond.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,206,209,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-CODECHEF-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/CodeChef Problem Solver Diamond.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(0,206,209,0.1) 0%, rgba(0,139,139,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,206,209,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #00CED1, #00FFFF, #20B2AA); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-CODECHEF-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/CodeChef Streak Diamond.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,206,209,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-CODECHEF-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/CodeChef Streak Diamond.png" /></kbd>
     </td>
   </tr>
 </table>
+<svg width="900" height="4" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="4" fill="url(#headerGrad)" rx="2"/>
+</svg>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -295,47 +266,35 @@
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(50,205,50,0.1) 0%, rgba(34,139,34,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(50,205,50,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #32CD32, #228B22, #00FF00); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
-        <br><br>
-        <img width="130" src="./Badges/TryHackMe/30 Day Streak.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(50,205,50,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/TryHackMe/30 Day Streak.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(50,205,50,0.1) 0%, rgba(34,139,34,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(50,205,50,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #32CD32, #228B22, #00FF00); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
-        <br><br>
-        <img width="130" src="./Badges/TryHackMe/7 Day Streak.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(50,205,50,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/TryHackMe/7 Day Streak.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(50,205,50,0.1) 0%, rgba(34,139,34,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(50,205,50,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #32CD32, #228B22, #00FF00); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
-        <br><br>
-        <img width="130" src="./Badges/TryHackMe/Being Competent in Linux.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(50,205,50,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/TryHackMe/Being Competent in Linux.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(50,205,50,0.1) 0%, rgba(34,139,34,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(50,205,50,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #32CD32, #228B22, #00FF00); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
-        <br><br>
-        <img width="130" src="./Badges/TryHackMe/Pentesting Principles.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(50,205,50,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/TryHackMe/Pentesting Principles.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(50,205,50,0.1) 0%, rgba(34,139,34,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(50,205,50,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #32CD32, #228B22, #00FF00); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
-        <br><br>
-        <img width="130" src="./Badges/TryHackMe/Understands how the WWW works.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(50,205,50,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/TryHackMe/Understands how the WWW works.png" /></kbd>
     </td>
   </tr>
 </table>
+<svg width="900" height="4" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="4" fill="url(#headerGrad)" rx="2"/>
+</svg>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -346,125 +305,85 @@
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(139,92,246,0.1) 0%, rgba(76,29,149,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(139,92,246,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #8B5CF6, #7C3AED, #A78BFA); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Apertre 3.0 Project Admin Ticket.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(139,92,246,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Apertre 3.0 Project Admin Ticket.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(139,92,246,0.1) 0%, rgba(76,29,149,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(139,92,246,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #8B5CF6, #7C3AED, #A78BFA); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Apertre 3.0 Community Partner Ticket.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(139,92,246,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Apertre 3.0 Community Partner Ticket.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(139,92,246,0.1) 0%, rgba(76,29,149,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(139,92,246,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #8B5CF6, #7C3AED, #A78BFA); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Apertre Contributor Card.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(139,92,246,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Apertre Contributor Card.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(139,92,246,0.1) 0%, rgba(76,29,149,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(139,92,246,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #8B5CF6, #7C3AED, #A78BFA); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Apertre Mentor Card.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(139,92,246,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Apertre Mentor Card.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(139,92,246,0.1) 0%, rgba(76,29,149,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(139,92,246,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #8B5CF6, #7C3AED, #A78BFA); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Apertre Project Maintainer Card.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(139,92,246,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Apertre Project Maintainer Card.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(0,206,209,0.1) 0%, rgba(0,139,139,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,206,209,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #00CED1, #20B2AA, #48D1CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-SWoC-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/SWoC Project Admin Badge.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,206,209,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-SWoC-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/SWoC Project Admin Badge.png" /></kbd>
     </td>
   </tr>
 </table>
-
-<br>
 
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(0,128,128,0.1) 0%, rgba(47,79,79,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,128,128,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #008080, #20B2AA, #40E0D0); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-WoCS-008080?style=for-the-badge&labelColor=2F4F4F" width="110">
-        <br><br>
-        <img width="130" src="./Badges/WoCS PA Badge.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,128,128,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-WoCS-008080?style=for-the-badge&labelColor=2F4F4F" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/WoCS PA Badge.jpg" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(0,128,128,0.1) 0%, rgba(47,79,79,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,128,128,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #008080, #20B2AA, #40E0D0); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-WoCS-008080?style=for-the-badge&labelColor=2F4F4F" width="110">
-        <br><br>
-        <img width="130" src="./Badges/WoCS Contributor Badge.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,128,128,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-WoCS-008080?style=for-the-badge&labelColor=2F4F4F" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/WoCS Contributor Badge.jpg" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(0,128,128,0.1) 0%, rgba(47,79,79,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,128,128,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #008080, #20B2AA, #40E0D0); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-WoCS-008080?style=for-the-badge&labelColor=2F4F4F" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Project Admin Banner WoCS.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,128,128,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-WoCS-008080?style=for-the-badge&labelColor=2F4F4F" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Project Admin Banner WoCS.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(0,128,128,0.1) 0%, rgba(47,79,79,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,128,128,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #008080, #20B2AA, #40E0D0); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-WoCS-008080?style=for-the-badge&labelColor=2F4F4F" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Contributor Banner WoCS.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,128,128,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-WoCS-008080?style=for-the-badge&labelColor=2F4F4F" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Contributor Banner WoCS.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(65,105,225,0.1) 0%, rgba(25,25,112,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(65,105,225,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #4169E1, #1E90FF, #6495ED); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-OSCI-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/OSCI Contributor ID Card.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(65,105,225,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-OSCI-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/OSCI Contributor ID Card.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(65,105,225,0.1) 0%, rgba(25,25,112,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(65,105,225,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #4169E1, #1E90FF, #6495ED); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-OSCI-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/OSCI Contributor NexFellow Banner.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(65,105,225,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-OSCI-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/OSCI Contributor NexFellow Banner.png" /></kbd>
     </td>
   </tr>
 </table>
-
-<br>
 
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(220,20,60,0.1) 0%, rgba(139,0,0,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(220,20,60,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #DC143C, #FF1493, #FF69B4); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-MISC-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Project Admin Badge.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(220,20,60,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-MISC-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Project Admin Badge.jpg" /></kbd>
     </td>
   </tr>
 </table>
+<svg width="900" height="4" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="4" fill="url(#headerGrad)" rx="2"/>
+</svg>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -475,52 +394,34 @@
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 1 - Cloud Infrastructure and Data Foundation.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 1 - Cloud Infrastructure and Data Foundation.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 1 - Application Design and Delivery.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 1 - Application Design and Delivery.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 2 - AI and Data Innovation on Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 2 - AI and Data Innovation on Google Cloud.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 2 - Building with Cloud Tools.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 2 - Building with Cloud Tools.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 3 - Developer Essentials.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 3 - Developer Essentials.png" /></kbd>
     </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">
-        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>
-        <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 3 - Terraform Essentials.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />
-      </div>
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 3 - Terraform Essentials.png" /></kbd>
     </td>
   </tr>
 </table>
@@ -538,73 +439,89 @@
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Future Ready Skills.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Future Ready Skills.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Scribble.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Scribble.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Work Meets Play - Faster Finance.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Work Meets Play - Faster Finance.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Base Camp August 2025.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Base Camp August 2025.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Base Camp September 2025.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Base Camp September 2025.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Certification Zone August 2025.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Certification Zone August 2025.png" /></kbd>
+    </td>
   </tr>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Certification Zone September 2025.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-ARCADE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Certification Zone September 2025.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia August 2025 Week 1.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia August 2025 Week 1.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia August 2025 Week 2.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia August 2025 Week 2.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia August 2025 Week 3.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia August 2025 Week 3.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia August 2025 Week 4.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia August 2025 Week 4.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia September 2025 Week 1.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia September 2025 Week 1.png" /></kbd>
+    </td>
   </tr>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia September 2025 Week 2.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia September 2025 Week 2.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia September 2025 Week 3.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia September 2025 Week 3.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia September 2025 Week 4.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia September 2025 Week 4.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia October 2025 Week 1.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-TRIVIA-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Skills Boost Arcade Trivia October 2025 Week 1.png" /></kbd>
+    </td>
   </tr>
 </table>
 
@@ -613,55 +530,67 @@
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-GFD-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Google for Developers/Android Developer.jpeg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-GFD-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Google for Developers/Android Developer.jpeg" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-GFD-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Google for Developers/Firebase Studio Developer.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-GFD-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Google for Developers/Firebase Studio Developer.jpg" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-GFD-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Google for Developers/Gemini Code Assist Agents.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-GFD-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Google for Developers/Gemini Code Assist Agents.jpg" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-GFD-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Google for Developers/Innovator.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-GFD-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Google for Developers/Innovator.jpg" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-GFD-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Google for Developers/Maps Innovator.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-GFD-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Google for Developers/Maps Innovator.jpg" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-GFD-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Google for Developers/NVIDIA Community Member.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-GFD-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Google for Developers/NVIDIA Community Member.jpg" /></kbd>
+    </td>
   </tr>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-GFD-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Google for Developers/Joined the Google Developer Program.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-GFD-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Google for Developers/Joined the Google Developer Program.jpg" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-GFD-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Google for Developers/Google Cloud Skills Boost.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-GFD-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Google for Developers/Google Cloud Skills Boost.jpg" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-GFD-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Google for Developers/Cloud Shell in Cloud Documentation.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-GFD-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Google for Developers/Cloud Shell in Cloud Documentation.jpg" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-GFD-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Google for Developers/Codelab Completed.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-GFD-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Google for Developers/Codelab Completed.jpg" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-GFD-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Google for Developers/First Learning Pathway.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-GFD-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Google for Developers/First Learning Pathway.jpg" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-GFD-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Google for Developers/Set up Android Studio.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-GFD-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Google for Developers/Set up Android Studio.jpg" /></kbd>
+    </td>
   </tr>
 </table>
 
@@ -670,113 +599,138 @@
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - AI Power-Ups for Google Workspace.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - AI Power-Ups for Google Workspace.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Amplify Exec Voices with AI.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Amplify Exec Voices with AI.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Automate tasks with Gemini and Apps Script.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Automate tasks with Gemini and Apps Script.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Content Generation with Gemini Made Easy.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Content Generation with Gemini Made Easy.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Create Docs in Seconds.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Create Docs in Seconds.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Customer insights with NotebookLM.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Customer insights with NotebookLM.png" /></kbd>
+    </td>
   </tr>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Discover Sources in NotebookLM.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Discover Sources in NotebookLM.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Eat the Frog with NotebookLM.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Eat the Frog with NotebookLM.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Email Content Creation.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Email Content Creation.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Exec Summaries with Gemini Gems.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Exec Summaries with Gemini Gems.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Gemini Gems – Your ultimate marketing sidekick.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Gemini Gems – Your ultimate marketing sidekick.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Gemini Image-to-Sheets Hack.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Gemini Image-to-Sheets Hack.png" /></kbd>
+    </td>
   </tr>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Gemini Slide Summaries.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Gemini Slide Summaries.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Intro to NotebookLM.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Intro to NotebookLM.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - No-Code Sheets & Scripts.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - No-Code Sheets & Scripts.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - NotebookLM for Competitive Edge.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - NotebookLM for Competitive Edge.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - NotebookLM for Market Research.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - NotebookLM for Market Research.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - NotebookLM Mind Maps.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - NotebookLM Mind Maps.png" /></kbd>
+    </td>
   </tr>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - NotebookLM Video Overviews.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - NotebookLM Video Overviews.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Personalization with customized prompts.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Personalization with customized prompts.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Poke Holes in Your Strategy.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Poke Holes in Your Strategy.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Project Notebooks.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Project Notebooks.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Prompting like a Pro with Google Workspace.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Prompting like a Pro with Google Workspace.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Tame Your Inbox with AI.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - Tame Your Inbox with AI.png" /></kbd>
+    </td>
   </tr>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - TL;DR with Gemini in Docs & Drive.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI_BITES-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Boost Bites - TL;DR with Gemini in Docs & Drive.png" /></kbd>
+    </td>
   </tr>
 </table>
 
@@ -785,81 +739,99 @@
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-CLOUD-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Digital Transformation with Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-CLOUD-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Digital Transformation with Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-CLOUD-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Exploring Data Transformation with Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-CLOUD-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Exploring Data Transformation with Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-CLOUD-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Modernize Infrastructure and Applications with Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-CLOUD-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Modernize Infrastructure and Applications with Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-CLOUD-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Scaling with Google Cloud Operations.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-CLOUD-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Scaling with Google Cloud Operations.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-CLOUD-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Trust and Security with Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-CLOUD-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Trust and Security with Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Innovating with Google Cloud Artificial Intelligence.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Innovating with Google Cloud Artificial Intelligence.png" /></kbd>
+    </td>
   </tr>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Introduction to Large Language Models.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Introduction to Large Language Models.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Gen AI Unlock Foundational Concepts.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Gen AI Unlock Foundational Concepts.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Gen AI Navigate the Landscape.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Gen AI Navigate the Landscape.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Gen AI Beyond the Chatbot.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Gen AI Beyond the Chatbot.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Gen AI Apps Transform Your Work.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Gen AI Apps Transform Your Work.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Gen AI Agents Transform Your Organization.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Gen AI Agents Transform Your Organization.png" /></kbd>
+    </td>
   </tr>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Responsible AI Applying AI Principles with Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Responsible AI Applying AI Principles with Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Responsible AI for Digital Leaders with Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Responsible AI for Digital Leaders with Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Machine Learning Operations (MLOps) with Vertex AI Model Evaluation.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Machine Learning Operations (MLOps) with Vertex AI Model Evaluation.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Infrastructure Introduction to AI Hypercomputer.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/AI Infrastructure Introduction to AI Hypercomputer.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Conversational AI on Vertex AI and Dialogflow CX.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Conversational AI on Vertex AI and Dialogflow CX.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Building Complex End to End Self-Service Experiences in Dialogflow CX.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-AI-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Building Complex End to End Self-Service Experiences in Dialogflow CX.png" /></kbd>
+    </td>
   </tr>
 </table>
 
@@ -868,29 +840,35 @@
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-WORKSPACE-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Google Calendar.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-WORKSPACE-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Google Calendar.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-WORKSPACE-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Google Docs.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-WORKSPACE-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Google Docs.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-WORKSPACE-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Google Drive.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-WORKSPACE-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Google Drive.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-WORKSPACE-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Google Meet.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-WORKSPACE-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Google Meet.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-WORKSPACE-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Google Sheets.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-WORKSPACE-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Google Sheets.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-WORKSPACE-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Lab Free Courses/Google Slides.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-WORKSPACE-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Lab Free Courses/Google Slides.png" /></kbd>
+    </td>
   </tr>
 </table>
 
@@ -899,203 +877,248 @@
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Build Infrastructure with Terraform on Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Build Infrastructure with Terraform on Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Build LookML Objects in Looker.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Build LookML Objects in Looker.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Cloud Speech API - 3 Ways.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Cloud Speech API - 3 Ways.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Create a Secure Data Lake on Cloud Storage.jpg" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Create a Secure Data Lake on Cloud Storage.jpg" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Develop Your Google Cloud Network.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Develop Your Google Cloud Network.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-4169E1?style=for-the-badge&labelColor=191970" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Enrich Metadata and Discovery of BigLake Data.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-4169E1?style=for-the-badge&labelColor=191970" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Enrich Metadata and Discovery of BigLake Data.png" /></kbd>
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Explore Generative AI with the Gemini API in Vertex AI.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Explore Generative AI with the Gemini API in Vertex AI.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Get Started with Dataplex.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Get Started with Dataplex.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Get Started with Eventarc.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Get Started with Eventarc.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Get Started with Google Workspace Tools.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Get Started with Google Workspace Tools.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Get Started with Pub-Sub.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Get Started with Pub-Sub.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Get Started with Sensitive Data Protection.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Get Started with Sensitive Data Protection.png" /></kbd>
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Implement CICD Pipelines on Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Implement CICD Pipelines on Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Implement Cloud Security Fundamentals on Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Implement Cloud Security Fundamentals on Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Implement DevOps Workflows in Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Implement DevOps Workflows in Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Implement Multimodal Vector Search with BigQuery.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Implement Multimodal Vector Search with BigQuery.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Implementing Cloud Load Balancing for Compute Engine.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Implementing Cloud Load Balancing for Compute Engine.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Manage Data Models in Looker.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Manage Data Models in Looker.png" /></kbd>
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Manage Kubernetes in Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Manage Kubernetes in Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Mitigate Threats and Vulnerabilities with Security Command Center.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Mitigate Threats and Vulnerabilities with Security Command Center.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Monitor and Log with Google Cloud Observability.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Monitor and Log with Google Cloud Observability.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Monitor and Manage Google Cloud Resources.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Monitor and Manage Google Cloud Resources.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Monitor Environments with Google Cloud Managed Service for Prometheus.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Monitor Environments with Google Cloud Managed Service for Prometheus.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Monitoring in Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Monitoring in Google Cloud.png" /></kbd>
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-32CD32?style=for-the-badge&labelColor=228B22" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Optimize Costs for Google Kubernetes Engine.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-32CD32?style=for-the-badge&labelColor=228B22" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Optimize Costs for Google Kubernetes Engine.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-32CD32?style=for-the-badge&labelColor=228B22" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Perform Predictive Data Analysis in BigQuery.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-32CD32?style=for-the-badge&labelColor=228B22" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Perform Predictive Data Analysis in BigQuery.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-32CD32?style=for-the-badge&labelColor=228B22" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Prepare Data for ML APIs on Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-32CD32?style=for-the-badge&labelColor=228B22" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Prepare Data for ML APIs on Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-32CD32?style=for-the-badge&labelColor=228B22" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Privileged Access with IAM.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-32CD32?style=for-the-badge&labelColor=228B22" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Privileged Access with IAM.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-32CD32?style=for-the-badge&labelColor=228B22" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Prompt Design in Vertex AI.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-32CD32?style=for-the-badge&labelColor=228B22" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Prompt Design in Vertex AI.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-32CD32?style=for-the-badge&labelColor=228B22" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Protect Cloud Traffic with Chrome Enterprise Premium Security.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-32CD32?style=for-the-badge&labelColor=228B22" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Protect Cloud Traffic with Chrome Enterprise Premium Security.png" /></kbd>
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Set Up a Google Cloud Network.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Set Up a Google Cloud Network.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Set Up an App Dev Environment on Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Set Up an App Dev Environment on Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Share Data Using Google Data Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Share Data Using Google Data Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Store, Process, and Manage Data on Google Cloud - Command Line.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Store, Process, and Manage Data on Google Cloud - Command Line.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Store, Process, and Manage Data on Google Cloud - Console.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Store, Process, and Manage Data on Google Cloud - Console.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Streaming Analytics into BigQuery.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Streaming Analytics into BigQuery.png" /></kbd>
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Use APIs to Work with Cloud Storage.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Use APIs to Work with Cloud Storage.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Use Functions, Formulas, and Charts in Google Sheets.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Use Functions, Formulas, and Charts in Google Sheets.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Use Machine Learning APIs on Google Cloud.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Use Machine Learning APIs on Google Cloud.png" /></kbd>
+    </td>
     <td align="center" width="160" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, rgba(147,112,219,0.1) 0%, rgba(75,0,130,0.1) 100%); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(147,112,219,0.3), inset 0 1px 1px rgba(255,255,255,0.1); border: 2px solid transparent; background-clip: padding-box; position: relative;">        <div style="position: absolute; inset: 0; border-radius: 20px; padding: 2px; background: linear-gradient(135deg, #9370DB, #8A2BE2, #9932CC); -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0); -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;"></div>        <img src="https://img.shields.io/badge/🏅-SKILL-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
-        <br><br>
-        <img width="130" src="./Badges/Google Cloud/Skill Badges/Using the Google Cloud Speech API.png" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(147,112,219,0.4);" />      </div>`n    </td>
+      <img src="https://img.shields.io/badge/🏅-SKILL-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
+      <br><br>
+      <kbd><img width="130" src="./Badges/Google Cloud/Skill Badges/Using the Google Cloud Speech API.png" /></kbd>
+    </td>
   </tr>
 </table>
 
 </details>
+<svg width="900" height="4" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="4" fill="url(#headerGrad)" rx="2"/>
+</svg>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </details>
+
+</div>
 
 ---
 

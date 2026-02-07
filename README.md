@@ -67,6 +67,8 @@
 
 <div align="center">
 
+![github-stats](https://stats.hyo.dev/api/github-stats?login=eccentriccoder01)
+
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eccentriccoder01&theme=github_dark"/>
 
 <table>
@@ -125,7 +127,10 @@
 <br>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=eccentriccoder01&theme=github_dark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10&no-bg=true"/>
+
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=eccentriccoder01)
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=eccentriccoder01&theme=github_dark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10&no-bg=true"/> -->
 
 ### 🎖️ Distinguished Collection 🎖️
 

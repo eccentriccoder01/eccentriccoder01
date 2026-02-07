@@ -489,6 +489,10 @@
 
 ---
 
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
+---
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect with Me
 
 <div align="center">

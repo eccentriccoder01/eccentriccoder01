@@ -30,19 +30,25 @@
 <td width="50%">
   
 ### Frontend Technologies
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="49" height="49" />
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,python" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Frontend Skills" />
 </p>
+</div>
 
 ### Backend & Database
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="49" height="49" />
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,firebase" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,firebase" alt="Backend Skills" />
 </p>
+</div>
 
 ### Tools & Platforms
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="49" height="49" style="background: #cfcece; border-radius: 30%;"/>
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,tensorflow" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,postman,tensorflow" alt="Tools" />
 </p>
+</div>
 
 </td>
 <td width="50%">

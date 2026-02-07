@@ -155,32 +155,32 @@
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/front-end-development-with-react.png" /></kbd>
+      <img width="130" src="./Badges/front-end-development-with-react.png" style="border: 3px solid #6366f1; border-radius: 12px; box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/node-and-express-essentials.png" /></kbd>
+      <img width="130" src="./Badges/node-and-express-essentials.png" style="border: 3px solid #6366f1; border-radius: 12px; box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-CISCO-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/javascript-essentials-1.png" /></kbd>
+      <img width="130" src="./Badges/javascript-essentials-1.png" style="border: 3px solid #6366f1; border-radius: 12px; box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/python-for-data-science-and-ai.png" /></kbd>
+      <img width="130" src="./Badges/python-for-data-science-and-ai.png" style="border: 3px solid #6366f1; border-radius: 12px; box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/introduction-to-cloud-computing.png" /></kbd>
+      <img width="130" src="./Badges/introduction-to-cloud-computing.png" style="border: 3px solid #6366f1; border-radius: 12px; box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/git-and-github-essentials.png" /></kbd>
+      <img width="130" src="./Badges/git-and-github-essentials.png" style="border: 3px solid #6366f1; border-radius: 12px; box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
   </tr>
 </table>
@@ -190,22 +190,22 @@
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-IBM-32CD32?style=for-the-badge&labelColor=006400" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/web-development-with-html-css-javascript-essentials.png" /></kbd>
+      <img width="130" src="./Badges/web-development-with-html-css-javascript-essentials.png" style="border: 3px solid #10b981; border-radius: 12px; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-IBM-32CD32?style=for-the-badge&labelColor=006400" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Explore Emerging Tech.jpg" /></kbd>
+      <img width="130" src="./Badges/Explore Emerging Tech.jpg" style="border: 3px solid #10b981; border-radius: 12px; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-LF-4169E1?style=for-the-badge&labelColor=191970" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/LFQ101.jpg" /></kbd>
+      <img width="130" src="./Badges/LFQ101.jpg" style="border: 3px solid #3b82f6; border-radius: 12px; box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-POSTMAN-CD7F32?style=for-the-badge&labelColor=8B4513" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Postman - Postman API Fundamentals Student Expert - 2025-08-15.png" /></kbd>
+      <img width="130" src="./Badges/Postman - Postman API Fundamentals Student Expert - 2025-08-15.png" style="border: 3px solid #f59e0b; border-radius: 12px; box-shadow: 0 4px 12px rgba(245, 158, 11, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
   </tr>
 </table>
@@ -224,32 +224,32 @@
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/50 Days LeetCode.gif" /></kbd>
+      <img width="130" src="./Badges/50 Days LeetCode.gif" style="border: 3px solid #eab308; border-radius: 12px; box-shadow: 0 4px 12px rgba(234, 179, 8, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/DCC December 2025 LeetCode.gif" /></kbd>
+      <img width="130" src="./Badges/DCC December 2025 LeetCode.gif" style="border: 3px solid #eab308; border-radius: 12px; box-shadow: 0 4px 12px rgba(234, 179, 8, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/DCC January 2026 LeetCode.gif" /></kbd>
+      <img width="130" src="./Badges/DCC January 2026 LeetCode.gif" style="border: 3px solid #eab308; border-radius: 12px; box-shadow: 0 4px 12px rgba(234, 179, 8, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-CODECHEF-CD7F32?style=for-the-badge&labelColor=8B4513" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/CodeChef Contest Contender Bronze.png" /></kbd>
+      <img width="130" src="./Badges/CodeChef Contest Contender Bronze.png" style="border: 3px solid #f59e0b; border-radius: 12px; box-shadow: 0 4px 12px rgba(245, 158, 11, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-CODECHEF-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/CodeChef Problem Solver Diamond.png" /></kbd>
+      <img width="130" src="./Badges/CodeChef Problem Solver Diamond.png" style="border: 3px solid #06b6d4; border-radius: 12px; box-shadow: 0 4px 12px rgba(6, 182, 212, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-CODECHEF-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/CodeChef Streak Diamond.png" /></kbd>
+      <img width="130" src="./Badges/CodeChef Streak Diamond.png" style="border: 3px solid #06b6d4; border-radius: 12px; box-shadow: 0 4px 12px rgba(6, 182, 212, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
   </tr>
 </table>
@@ -268,27 +268,27 @@
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/TryHackMe/30 Day Streak.png" /></kbd>
+      <img width="130" src="./Badges/TryHackMe/30 Day Streak.png" style="border: 3px solid #10b981; border-radius: 12px; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/TryHackMe/7 Day Streak.png" /></kbd>
+      <img width="130" src="./Badges/TryHackMe/7 Day Streak.png" style="border: 3px solid #10b981; border-radius: 12px; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/TryHackMe/Being Competent in Linux.png" /></kbd>
+      <img width="130" src="./Badges/TryHackMe/Being Competent in Linux.png" style="border: 3px solid #10b981; border-radius: 12px; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/TryHackMe/Pentesting Principles.png" /></kbd>
+      <img width="130" src="./Badges/TryHackMe/Pentesting Principles.png" style="border: 3px solid #10b981; border-radius: 12px; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🛡️-THM-32CD32?style=for-the-badge&labelColor=228B22" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/TryHackMe/Understands how the WWW works.png" /></kbd>
+      <img width="130" src="./Badges/TryHackMe/Understands how the WWW works.png" style="border: 3px solid #10b981; border-radius: 12px; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
   </tr>
 </table>
@@ -307,32 +307,32 @@
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Apertre 3.0 Project Admin Ticket.png" /></kbd>
+      <img width="130" src="./Badges/Apertre 3.0 Project Admin Ticket.png" style="border: 3px solid #8b5cf6; border-radius: 12px; box-shadow: 0 4px 12px rgba(139, 92, 246, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Apertre 3.0 Community Partner Ticket.png" /></kbd>
+      <img width="130" src="./Badges/Apertre 3.0 Community Partner Ticket.png" style="border: 3px solid #8b5cf6; border-radius: 12px; box-shadow: 0 4px 12px rgba(139, 92, 246, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Apertre Contributor Card.png" /></kbd>
+      <img width="130" src="./Badges/Apertre Contributor Card.png" style="border: 3px solid #8b5cf6; border-radius: 12px; box-shadow: 0 4px 12px rgba(139, 92, 246, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Apertre Mentor Card.png" /></kbd>
+      <img width="130" src="./Badges/Apertre Mentor Card.png" style="border: 3px solid #8b5cf6; border-radius: 12px; box-shadow: 0 4px 12px rgba(139, 92, 246, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-APERTRE-8B5CF6?style=for-the-badge&labelColor=4C1D95" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Apertre Project Maintainer Card.png" /></kbd>
+      <img width="130" src="./Badges/Apertre Project Maintainer Card.png" style="border: 3px solid #8b5cf6; border-radius: 12px; box-shadow: 0 4px 12px rgba(139, 92, 246, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-SWoC-00CED1?style=for-the-badge&labelColor=008B8B" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/SWoC Project Admin Badge.png" /></kbd>
+      <img width="130" src="./Badges/SWoC Project Admin Badge.png" style="border: 3px solid #06b6d4; border-radius: 12px; box-shadow: 0 4px 12px rgba(6, 182, 212, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
   </tr>
 </table>
@@ -342,32 +342,32 @@
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-WoCS-008080?style=for-the-badge&labelColor=2F4F4F" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/WoCS PA Badge.jpg" /></kbd>
+      <img width="130" src="./Badges/WoCS PA Badge.jpg" style="border: 3px solid #14b8a6; border-radius: 12px; box-shadow: 0 4px 12px rgba(20, 184, 166, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-WoCS-008080?style=for-the-badge&labelColor=2F4F4F" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/WoCS Contributor Badge.jpg" /></kbd>
+      <img width="130" src="./Badges/WoCS Contributor Badge.jpg" style="border: 3px solid #14b8a6; border-radius: 12px; box-shadow: 0 4px 12px rgba(20, 184, 166, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-WoCS-008080?style=for-the-badge&labelColor=2F4F4F" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Project Admin Banner WoCS.png" /></kbd>
+      <img width="130" src="./Badges/Project Admin Banner WoCS.png" style="border: 3px solid #14b8a6; border-radius: 12px; box-shadow: 0 4px 12px rgba(20, 184, 166, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-WoCS-008080?style=for-the-badge&labelColor=2F4F4F" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Contributor Banner WoCS.png" /></kbd>
+      <img width="130" src="./Badges/Contributor Banner WoCS.png" style="border: 3px solid #14b8a6; border-radius: 12px; box-shadow: 0 4px 12px rgba(20, 184, 166, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-OSCI-4169E1?style=for-the-badge&labelColor=191970" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/OSCI Contributor ID Card.png" /></kbd>
+      <img width="130" src="./Badges/OSCI Contributor ID Card.png" style="border: 3px solid #3b82f6; border-radius: 12px; box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-OSCI-4169E1?style=for-the-badge&labelColor=191970" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/OSCI Contributor NexFellow Banner.png" /></kbd>
+      <img width="130" src="./Badges/OSCI Contributor NexFellow Banner.png" style="border: 3px solid #3b82f6; border-radius: 12px; box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
   </tr>
 </table>
@@ -377,7 +377,7 @@
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-MISC-DC143C?style=for-the-badge&labelColor=8B0000" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Project Admin Badge.jpg" /></kbd>
+      <img width="130" src="./Badges/Project Admin Badge.jpg" style="border: 3px solid #ef4444; border-radius: 12px; box-shadow: 0 4px 12px rgba(239, 68, 68, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
   </tr>
 </table>
@@ -396,32 +396,32 @@
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 1 - Cloud Infrastructure and Data Foundation.png" /></kbd>
+      <img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 1 - Cloud Infrastructure and Data Foundation.png" style="border: 3px solid #a855f7; border-radius: 12px; box-shadow: 0 4px 12px rgba(168, 85, 247, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 1 - Application Design and Delivery.png" /></kbd>
+      <img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 1 - Application Design and Delivery.png" style="border: 3px solid #a855f7; border-radius: 12px; box-shadow: 0 4px 12px rgba(168, 85, 247, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 2 - AI and Data Innovation on Google Cloud.png" /></kbd>
+      <img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 2 - AI and Data Innovation on Google Cloud.png" style="border: 3px solid #a855f7; border-radius: 12px; box-shadow: 0 4px 12px rgba(168, 85, 247, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 2 - Building with Cloud Tools.png" /></kbd>
+      <img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 2 - Building with Cloud Tools.png" style="border: 3px solid #a855f7; border-radius: 12px; box-shadow: 0 4px 12px rgba(168, 85, 247, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 3 - Developer Essentials.png" /></kbd>
+      <img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 3 - Developer Essentials.png" style="border: 3px solid #a855f7; border-radius: 12px; box-shadow: 0 4px 12px rgba(168, 85, 247, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="110">
       <br><br>
-      <kbd><img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 3 - Terraform Essentials.png" /></kbd>
+      <img width="130" src="./Badges/Google Cloud/Arcade Badges/Level 3 - Terraform Essentials.png" style="border: 3px solid #a855f7; border-radius: 12px; box-shadow: 0 4px 12px rgba(168, 85, 247, 0.4); padding: 8px; background: linear-gradient(145deg, #ffffff, #f3f4f6);" />
     </td>
   </tr>
 </table>

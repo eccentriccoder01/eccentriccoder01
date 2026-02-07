@@ -22,7 +22,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_stars: yes
-          config_order: base.header, isocalendar, languages, stars
+          config_order: base.header, isocalendar, languages
           extras_css: |
             h2 {
               color: red;

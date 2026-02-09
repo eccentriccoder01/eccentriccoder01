@@ -21,7 +21,6 @@ jobs:
           base: header
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_stars: yes
           config_order: base.header, isocalendar, languages
           extras_css: |
             h2 {
@@ -29,4 +28,5 @@ jobs:
             }
           config_padding: 10
           config_display: large
+
 

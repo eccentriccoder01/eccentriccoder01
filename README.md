@@ -952,7 +952,7 @@
       <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
       <br>
       <a href="https://leetcode.com/u/eccentriccoder01/">
-      <img width="120" src="./Badges/50 Days LeetCode.gif" />
+      <img width="100" src="./Badges/50 Days LeetCode.gif" />
       </a>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-FFD700?style=flat&labelColor=B8860B" width="80">
     </td>
@@ -960,7 +960,7 @@
       <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
       <br>
       <a href="https://leetcode.com/u/eccentriccoder01/">
-      <img width="120" src="./Badges/DCC January 2026 LeetCode.gif" />
+      <img width="100" src="./Badges/DCC January 2026 LeetCode.gif" />
       </a>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-FFD700?style=flat&labelColor=B8860B" width="80">
     </td>
@@ -968,7 +968,7 @@
       <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
       <br>
       <a href="https://leetcode.com/u/eccentriccoder01/">
-      <img width="120" src="./Badges/DCC December 2025 LeetCode.gif" />
+      <img width="100" src="./Badges/DCC December 2025 LeetCode.gif" />
       </a>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-FFD700?style=flat&labelColor=B8860B" width="80">
     </td>

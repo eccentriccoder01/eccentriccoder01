@@ -1,52 +1,107 @@
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">  -->
-
-<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f0160,50:8338ec,100:00f5ff&height=200&section=header&text=Eccentric Explorer&fontSize=44&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Open%20Source%20Explorer&descAlignY=60&descSize=15&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
 <picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="./images/About-Me-Dark.svg" style="width: 650px; height: 300px;"> -->
   <img align="center" alt="" src="./images/About-Me-Dark.svg" style="width: 780px; height: 360px;">
 </picture>
 </div>
+
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1000&pause=100&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=a268ea&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Building+Intelligent+Web+Experiences;React+%7C+Node.js+%7C+Python+%7C+TensorFlow" alt="Typing SVG" />
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eccentriccoder01&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-indigo?style=for-the-badge" alt="Status" />
-</div> 
+  <a href="https://github.com/eccentriccoder01">
+    <img src="https://komarev.com/ghpvc/?username=eccentriccoder01&label=Profile+Views&color=8338ec&labelColor=0d1117&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-8338ec?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%2FML%20%2B%20Full%20Stack-8338ec?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+</div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Arsenal
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> Arsenal
 
 <div align="center">
 
-<table>
-<tr>
-<td width="1500px">
+<br>
 
-### Frontend Technologies
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="49" height="49" />
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Frontend Skills" />
-</div>
-
-### Backend & Database
-<p>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="49" height="49" />
-<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,firebase" alt="Backend Skills" />
-</div>
-</p>
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,tensorflow" alt="Tools" />
-</div>
-
-</td>
-</tr>
+<table align="center" border="0" cellpadding="18">
+  <tr>
+    <td width="150">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="26" />
+      <img src="https://img.shields.io/badge/Languages-8338ec?style=flat-square&labelColor=2f0160" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="26" />
+      <img src="https://img.shields.io/badge/Frontend-8338ec?style=flat-square&labelColor=2f0160" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux,vite&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="26" />
+      <img src="https://img.shields.io/badge/Backend%20%26%20APIs-8338ec?style=flat-square&labelColor=2f0160" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/fsEaZR08421Tq9bDlw/giphy.gif" width="26" />
+      <img src="https://img.shields.io/badge/Databases-8338ec?style=flat-square&labelColor=2f0160" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="26" />
+      <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-8338ec?style=flat-square&labelColor=2f0160" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,ubuntu&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="26" />
+      <img src="https://img.shields.io/badge/AI%20%26%20ML-8338ec?style=flat-square&labelColor=2f0160" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/scikit--learn-8338ec?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=2f0160" height="25" />
+      <img src="https://img.shields.io/badge/Pandas-8338ec?style=flat-square&logo=pandas&logoColor=white&labelColor=2f0160" height="25" />
+      <img src="https://img.shields.io/badge/NumPy-8338ec?style=flat-square&logo=numpy&logoColor=white&labelColor=2f0160" height="25" />
+      <img src="https://img.shields.io/badge/HuggingFace-8338ec?style=flat-square&logo=huggingface&logoColor=white&labelColor=2f0160" height="25" />
+    </td>
+  </tr>
 </table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2f0160,50:8338ec,100:00f5ff&height=3&width=800" />
+
+<br>
 
 </div>
 

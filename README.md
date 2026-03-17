@@ -137,11 +137,16 @@
 
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=MrEccentric&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" />
+<td width="1400">
+<img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=MrEccentric&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" width="1400" />
 </td>
-<td>
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="700"></p>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="1400">
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="1400"></p>
 </td>
 </tr>
 </table>
